@@ -1,0 +1,5 @@
+Model,n,cells,BrexitxRoRo,p
+"P1: all ports, cells >= 0.5M",573,36,-4.3%,0.7305
+"P2: all ports, cells >= 1M",461,29,-0.6%,0.9666
+P3: WLS tonnage-weighted,573,36,-2.3%,0.8835
+P4: 2015-2024 window,334,34,-2.3%,0.7676

@@ -1,0 +1,20 @@
+PortName,Mode,pre_mean,post_mean,pct_change,share_pre_pct
+Felixstowe,Lo-Lo,24205.13,18615.3,-23.09,36.95
+London,Lo-Lo,11979.73,14281.83,19.22,18.29
+Southampton,Lo-Lo,9925.06,8458.2,-14.78,15.15
+Liverpool,Lo-Lo,5589.84,5318.89,-4.85,8.53
+Tees & Hartlepool,Lo-Lo,2445.49,2361.56,-3.43,3.73
+Forth,Lo-Lo,2273.73,2118.25,-6.84,3.47
+Grimsby & Immingham,Lo-Lo,2045.44,2146.63,4.95,3.12
+Hull,Lo-Lo,1775.93,2058.52,15.91,2.71
+Belfast,Lo-Lo,1688.58,1750.06,3.64,2.58
+Medway,Lo-Lo,930.01,484.92,-47.86,1.42
+Bristol,Lo-Lo,885.68,979.97,10.65,1.35
+Clyde,Lo-Lo,624.29,506.7,-18.84,0.95
+Tyne,Lo-Lo,403.99,295.43,-26.87,0.62
+Portsmouth,Lo-Lo,285.07,194.85,-31.65,0.44
+Warrenpoint,Lo-Lo,269.28,155.66,-42.19,0.41
+Aberdeen,Lo-Lo,80.09,34.81,-56.53,0.12
+Dover,Lo-Lo,78.04,51.2,-34.4,0.12
+Harwich,Lo-Lo,20.88,10.48,-49.81,0.03
+Manchester,Lo-Lo,1.54,0.07,-95.4,0.0
