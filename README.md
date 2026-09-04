@@ -31,7 +31,7 @@ All data are secondary and openly published by the United Kingdom Department for
 | **PORT0201** | Annual, national, split into international and domestic | National difference-in-differences on international traffic |
 | **PORT0502** | Quarterly, 53 major ports, both directions | Time series forecasting |
 
-The six published Department for Transport tables are overlapping views of the same underlying data, so combining them would produce double counting. Three tables were selected, each serving a distinct purpose. All tonnage figures are in thousand tonnes.
+The three published Department for Transport tables are overlapping views of the same underlying data, so combining them would produce double counting. Three tables were selected, each serving a distinct purpose. All tonnage figures are in thousand tonnes.
 
 ## Methodology
 
