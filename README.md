@@ -123,20 +123,6 @@ The consistently insignificant port level estimate is itself informative: it poi
 
 ARIMA order: (2,1,2)(1,1,1)[4]. Prophet was selected for the 2026 forecast.
 
-### Cargo composition at major ports, 2024
-
-| Cargo group | Share |
-|---|---|
-| Liquid bulk | 38.7% |
-| Ro-Ro | 23.6% |
-| Dry bulk | 19.2% |
-| Lo-Lo | 14.4% |
-| Other general cargo | 4.0% |
-
-Ro-Ro and Lo-Lo together account for 38.0 per cent of the approximately 421 million tonnes handled at major ports.
-
-## Business Intelligence Dashboard
-
 The Power BI dashboard visualises the outputs exported from Python. It performs no calculation of its own, so that what the dashboard displays is exactly what the analysis produced. The automated forecasting available in Power BI, which uses exponential smoothing, was deliberately not used, since it would not correspond to the Prophet and ARIMA models specified in the analysis.
 
 Five views:
