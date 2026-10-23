@@ -2,6 +2,14 @@
 
 The study of Ro-Ro and Lo-Lo freight at United Kingdom seaports, using Python for analysis and Power BI for visualisation.
 
+Author: Thi Thanh Ngan (Rachel) Nguyen
+
+Date: September 2026
+
+Project type: MSc Business Intelligence and Analytics dissertation, University of Huddersfield
+
+Tools Used: Python (pandas, statsmodels, Prophet, scikit-learn) · Microsoft Power BI · Jupyter Notebook
+
 ## Project Overview
 
 This project examines how the United Kingdom's departure from the European Union Single Market and Customs Union on 1 January 2021 affected freight moving through United Kingdom seaports. It compares roll-on roll-off (Ro-Ro) and lift-on lift-off (Lo-Lo) cargo, which together account for 38 per cent of national tonnage, and forecasts total freight volumes to 2026. The analysis combines two strands: a difference-in-differences design that explains what has already happened, and time series forecasting that projects what is likely to follow.
@@ -158,15 +166,6 @@ The division of labour is deliberate. Python produces every number and writes th
    ```
 4. Run all cells from a clean kernel using Restart and Run All
 5. Exported CSV files are written to `outputs/` and can be loaded into the Power BI dashboard
-
-
-## Author
-
-Thi Thanh Ngan Nguyen
-
-## Date
-
-August 2026
 
 ---
 
